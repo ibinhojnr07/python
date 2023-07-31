@@ -9,4 +9,4 @@ User: ibrah
 Hostname: Ibrahima
 Current Working Directory: D:\School\AP2022-2023\python\Trjan_agent
 RAM: 15.79 GB
-Timestamp: 2023-07-31 14:44:26
+Timestamp: 2023-07-31 15:04:51
