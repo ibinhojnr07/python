@@ -8,3 +8,15 @@ Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
 User: ibrah
 Hostname: Ibrahima
 Current Working Directory: D:\School\AP2022-2023\python\Trjan_agent
+
+
+Computer Information:
+Machine: AMD64
+Node: Ibrahima
+System: Windows
+Release: 10
+Version: 10.0.22621
+Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+User: ibrah
+Hostname: Ibrahima
+Current Working Directory: D:\School\AP2022-2023\python\Trjan_agent
