@@ -1,0 +1,2 @@
+Timestamp,Machine,Node,System,Release,Version,Processor,User,Hostname,CPU,RAM,OS
+2023-07-31 15:45:16,AMD64,Ibrahima,Windows,10,10.0.22621,Intel64 Family 6 Model 142 Stepping 12, GenuineIntel,ibrah,Ibrahima,4 cores (8 threads),15.79 GB,Windows 10
